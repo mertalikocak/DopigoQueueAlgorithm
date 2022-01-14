@@ -1,2 +1,2 @@
 #QueueAlgorithm
-
+Minimum average time
